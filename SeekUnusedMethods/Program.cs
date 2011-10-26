@@ -22,12 +22,6 @@ namespace SeekUnusedMethods
 
         static void Main(string[] args)
         {
-            args = new[]
-            {
-                @"C:\_Projektit\Vero.VKV\Kehitys\Vero.VKV.sln",
-                "Vero.VKV.Testit,Vero.VKV.Speksit,Vero.VKV.Speksit.KL"
-            };
-
             var parsedArgs = ParseArgs(args);
             if (parsedArgs == null)
             {
