@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeekUnusedMethods", "SeekUnusedMethods\SeekUnusedMethods.csproj", "{4A555B5F-2722-4C98-B9D0-36E3AC3AD0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A555B5F-2722-4C98-B9D0-36E3AC3AD0AD}.Debug|x86.ActiveCfg = Debug|x86
+		{4A555B5F-2722-4C98-B9D0-36E3AC3AD0AD}.Debug|x86.Build.0 = Debug|x86
+		{4A555B5F-2722-4C98-B9D0-36E3AC3AD0AD}.Release|x86.ActiveCfg = Release|x86
+		{4A555B5F-2722-4C98-B9D0-36E3AC3AD0AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
